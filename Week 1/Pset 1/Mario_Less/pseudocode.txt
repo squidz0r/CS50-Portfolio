@@ -1,0 +1,6 @@
+first will require a user input
+
+if not within 1-8 need to return to ask user input
+
+lines will be (int x; int < n; int++)
+
